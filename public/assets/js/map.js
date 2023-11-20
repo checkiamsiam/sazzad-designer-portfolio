@@ -11,7 +11,7 @@ function initMap() {
             saturation: 36,
           },
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 40,
@@ -26,7 +26,7 @@ function initMap() {
             visibility: "on",
           },
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 16,
@@ -47,7 +47,7 @@ function initMap() {
         elementType: "geometry.fill",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 20,
@@ -59,7 +59,7 @@ function initMap() {
         elementType: "geometry.stroke",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 17,
@@ -74,7 +74,7 @@ function initMap() {
         elementType: "geometry",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 15,
@@ -86,7 +86,7 @@ function initMap() {
         elementType: "geometry",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 20,
@@ -98,7 +98,7 @@ function initMap() {
         elementType: "geometry.fill",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 17,
@@ -110,7 +110,7 @@ function initMap() {
         elementType: "geometry.stroke",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 29,
@@ -125,7 +125,7 @@ function initMap() {
         elementType: "geometry",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 18,
@@ -137,7 +137,7 @@ function initMap() {
         elementType: "geometry",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 16,
@@ -149,7 +149,7 @@ function initMap() {
         elementType: "geometry",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 19,
@@ -161,7 +161,7 @@ function initMap() {
         elementType: "geometry",
         stylers: [
           {
-            color: "#FEFEF2",
+            color: "#FFFEF3",
           },
           {
             lightness: 10,

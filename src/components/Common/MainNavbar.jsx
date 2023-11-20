@@ -60,37 +60,37 @@ function MainNavbar({ mainBg, subBg, noStatic, curve }) {
         <div className="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <Link className={"nav-link"} href="#">
+              <a className={"nav-link"} href="#home-service">
                 <span className="rolling-text">Service</span>
-              </Link>
+              </a>
             </li>
 
             <li className="nav-item">
-              <Link className={"nav-link"} href="#">
+              <a className={"nav-link"} href="#home-about">
                 <span className="rolling-text">About</span>
-              </Link>
+              </a>
             </li>
             <li className="nav-item">
-              <Link className={"nav-link"} href="#">
+              <a className={"nav-link"} href="#home-portfolio">
                 <span className="rolling-text">Portfolio</span>
-              </Link>
+              </a>
             </li>
             <li className="nav-item">
-              <Link className={"nav-link"} href="#">
+              <a className={"nav-link"} href="#home-resume">
                 <span className="rolling-text">Resume</span>
-              </Link>
+              </a>
             </li>
             <li className="nav-item">
-              <Link className={"nav-link"} href="#">
+              <a className={"nav-link"} href="#home-contact">
                 <span className="rolling-text">Contact</span>
-              </Link>
+              </a>
             </li>
           </ul>
         </div>
         <div className="nav-item-contact-btn">
-          <Link href="#" className={`butn butn-md butn-bord radius-30 `}>
+          <a href="https://www.linkedin.com/in/sazzaddesign/" target="_blank" className={`butn butn-md butn-bord radius-30 `}>
             <span>Linkedin</span>
-          </Link>
+          </a>
         </div>
       </div>
     </nav>

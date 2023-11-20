@@ -28,7 +28,7 @@ function Banner() {
                 </span>{" "}
                 , I'm Sazzad.
               </h6>
-              <h1 className="fz-60">A Graphics Designer Specializing in UI & UX</h1>
+              <h1 className="fz-60">Crafting Memorable Brands.</h1>
               <div className="row mt-50">
                 <div className="col-lg-3 cal-act order2">
                   <Link href="/dark/portfolio-classic-grid" className="butn-circle d-flex align-items-center text-center">
@@ -47,7 +47,7 @@ function Banner() {
                   </Link>
                 </div>
                 <div className="col-lg-8 offset-lg-1 valign order1 md-mb50">
-                  <p className="fz-16">We appreciate your trust greatly our clients choose us & our products because they know we are the best.</p>
+                  <p className="fz-16">I design with pure creativity by combining the simplicity of peoples lives that one can live with, Which consists a result in minimalistic branding that has feelings and emotions attached to it.</p>
                 </div>
               </div>
             </div>

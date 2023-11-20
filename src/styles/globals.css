@@ -1,5 +1,6 @@
 body {
   padding: 0 !important;
+  scroll-behavior: smooth !important;
 }
 
 .lg-react-element {
@@ -33,7 +34,7 @@ body {
 .swiper-controls.arrow-out .swiper-button-prev:hover .right:not(.light .swiper-controls.arrow-out .right),
 .swiper-controls.arrow-out .swiper-button-next:hover .left.left:not(.light .swiper-controls.arrow-out .left),
 .swiper-controls.arrow-out .swiper-button-next:hover .right:not(.light .swiper-controls.arrow-out .right) {
-  background: #FEFEF2;
+  background: #fffef3;
 }
 
 .swiper-controls.arrow-out .left:not(.light .swiper-controls.arrow-out .left),
@@ -60,13 +61,13 @@ body {
 
 .testim-clasic.light .swiper-pagination-bullet,
 .work-carsouel.light .swiper-pagination-bullet {
-  background: #FEFEF2;
+  background: #fffef3;
 }
 
 .swiper-pagination-bullet-active,
 .testim-clasic.light .swiper-pagination-bullet-active,
 .work-carsouel.light .swiper-pagination-bullet-active {
-  background: #b8860b;
+  background: #fff200;
 }
 
 .testim-clasic .swiper-controls .swiper-pagination {
@@ -108,5 +109,5 @@ body {
 }
 
 .light.shop-cart .counter input {
-  color: #FEFEF2;
+  color: #fffef3;
 }

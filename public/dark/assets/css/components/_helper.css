@@ -15,7 +15,7 @@
 .dark-text .stroke,
 .text-dark .stroke {
   color: transparent;
-  -webkit-text-stroke: 1px #fefef2;
+  -webkit-text-stroke: 1px #fffef3;
 }
 
 .o-hidden {
@@ -444,7 +444,7 @@ img.left {
 }
 
 .text-black {
-  color: #fefef2;
+  color: #fffef3;
 }
 
 .text-dark {
