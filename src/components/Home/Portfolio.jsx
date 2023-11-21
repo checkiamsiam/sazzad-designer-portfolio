@@ -11,7 +11,7 @@ function Portfolio() {
           <div className="row">
             <div className="col-lg-7">
               <div className="position-re">
-                <h6 className="dot-titl-non mb-10">Portfolio</h6>
+                <h6 className="dot-titl mb-10">Portfolio</h6>
                 <h2 className="fz-50">Selected Works</h2>
               </div>
             </div>

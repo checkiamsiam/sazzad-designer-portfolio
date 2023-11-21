@@ -12,15 +12,15 @@ function Services({ lightMode }) {
           <div className="row">
             <div className="col-lg-7">
               <div className="position-re">
-                <h6 className="dot-titl-non mb-10">Featured Services</h6>
+                <h6 className="dot-titl mb-10">Featured Services</h6>
                 <h2 className="fz-50">Our Services</h2>
               </div>
             </div>
             <div className="col-lg-5 d-flex align-items-center">
               <div className="full-width d-flex justify-content-end justify-end">
                 <div className="vew-all">
-                  <Link href="/dark/page-services">
-                    View All Services
+                  <a href="#">
+                    View Fiverr
                     <span>
                       <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -29,7 +29,7 @@ function Services({ lightMode }) {
                         ></path>
                       </svg>
                     </span>
-                  </Link>
+                  </a>
                 </div>
               </div>
             </div>
@@ -40,7 +40,7 @@ function Services({ lightMode }) {
             <div className="col-lg-6" key={item.id}>
               <div className={`serv-item d-flex ${index !== data.length - 1 ? "mb-30" : ""} radius-10`}>
                 <div className="icon-img-80">
-                  <img src={`/${lightMode ? "light" : "dark"}/${item.image}`} alt="" />
+                  <img src={"/dark/assets/imgs/serv-icons/0.png"} alt="" />
                 </div>
                 <div className="ml-60">
                   <h5 className="mb-15">

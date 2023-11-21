@@ -1,18 +1,18 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import React, { useEffect } from 'react';
+import { useEffect } from "react";
 
 function Intro() {
   useEffect(() => {
-    document.addEventListener('mousemove', updateParallax);
-    return () => document.removeEventListener('mousemove', updateParallax);
+    document.addEventListener("mousemove", updateParallax);
+    return () => document.removeEventListener("mousemove", updateParallax);
   }, []);
 
   function updateParallax(event) {
     let mouseX = event.clientX;
     let mouseY = event.clientY;
     // Loop through each target element
-    const parallaxTargets = document.querySelectorAll('.parallax');
-    parallaxTargets.forEach(target => {
+    const parallaxTargets = document.querySelectorAll(".parallax");
+    parallaxTargets.forEach((target) => {
       // Get the target's speed
       let speed = target.dataset.speed;
       // Calculate the new position based on the mouse position and speed
@@ -26,29 +26,33 @@ function Intro() {
   }
 
   return (
-    <section id='home-about' className="intro-img-parlx section-padding pb-0 sub-bg" data-scroll-index="2">
+    <section id="home-about" className="intro-img-parlx section-padding pb-0 sub-bg" data-scroll-index="2">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-5 valign md-hide">
-            <h2 className="max-text" data-text=" Creative UI - UX Designer."> Creative UI - UX Designer.</h2>
+            <h2 className="max-text" data-text="EX. Graphics Designer">
+              {" "}
+              EX. Graphics Designer.
+            </h2>
           </div>
           <div className="col-lg-3 order2">
             <div className="img">
-              <img src="/dark/assets/imgs/freelancer/h2.png" alt="" className="parallax" data-speed="0.01" />
-              <span className="star-shape">
-                <img src="/dark/assets/imgs/svg-assets/star-shape.png" alt="" className="parallax" data-speed="-0.01" />
-              </span>
+              <img src="/dark/assets/imgs/home/banner-imag.png" alt="" className="parallax" data-speed="0.01" />
             </div>
           </div>
           <div className="col-lg-3 valign order1">
             <div className="text-qoute">
               <span className="exp mb-30 main-bg">7+ Years Experience</span>
-              <p>I'm Creative Independent Web Developer, and I'm very passionate and dedicated to my work,
-                Using year-over-year design approaches and the latest technologies.</p>
+              <p>
+                I'm Creative Independent Web Developer, and I'm very passionate and dedicated to my work, Using year-over-year design approaches and
+                the latest technologies.
+              </p>
               <div className="stauts mt-50">
                 <div className="item d-flex align-items-center">
                   <h2 className="mr-20">12k</h2>
-                  <p className="fz-14">Happy Users <br /> Around World</p>
+                  <p className="fz-14">
+                    Happy Users <br /> Around World
+                  </p>
                 </div>
               </div>
             </div>
@@ -56,7 +60,7 @@ function Intro() {
         </div>
       </div>
     </section>
-  )
+  );
 }
 
-export default Intro
+export default Intro;

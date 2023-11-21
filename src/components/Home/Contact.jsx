@@ -5,7 +5,7 @@ function Contact() {
         <div className="row">
           <div className="col-lg-5">
             <div className="sec-lg-head md-mb80">
-              <h6 className="dot-titl-non mb-10">Get In Touch</h6>
+              <h6 className="dot-titl mb-10">Get In Touch</h6>
               <h2 className="fz-50">Let's make your brand brilliant!</h2>
               <p className="fz-15 mt-10">If you would like to work with us or just want to get in touch, we’d love to hear from you!</p>
               <div className="phone fz-30 fw-600 mt-30 underline">

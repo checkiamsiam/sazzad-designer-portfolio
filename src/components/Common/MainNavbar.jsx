@@ -13,13 +13,7 @@ function MainNavbar({ mainBg, subBg, noStatic, curve }) {
     document.querySelector(".navbar .navbar-collapse").classList.remove("show");
   });
 
-  const navLinks = {
-    service: "#",
-    about: "#",
-    portfolio: "#",
-    resume: "#",
-    contact: "#",
-  };
+
 
   function handleScroll() {
     const bodyScroll = window.scrollY;

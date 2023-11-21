@@ -9,7 +9,7 @@ function Skills({ lightMode }) {
           <div className="col-lg-6">
             <div className="sec-lg-head mb-80">
               <div className="position-re">
-                <h6 className="dot-titl-non mb-10">Skills & Experience</h6>
+                <h6 className="dot-titl mb-10">Skills & Experience</h6>
                 <h2 className="fz-50">My Experience</h2>
               </div>
             </div>
@@ -42,7 +42,7 @@ function Skills({ lightMode }) {
           </div>
           <div className="col-lg-5 offset-lg-1 valign">
             <div className="exp-items full-width">
-              <div className="item d-flex pb-30 pt-30 mb-30 bord-thin-top bord-thin-bottom">
+              <div className="item d-flex pb-30 pt-30 mb-30 bord-thin-top-new bord-thin-bottom-new">
                 <div className="title">
                   <h6>Android Studio</h6>
                   <p className="fz-12">Junior Product Designer</p>
@@ -56,7 +56,7 @@ function Skills({ lightMode }) {
                   <p className="fz-12">2014 - 2015</p>
                 </div>
               </div>
-              <div className="item d-flex pb-30 mb-30 bord-thin-bottom">
+              <div className="item d-flex pb-30 mb-30 bord-thin-bottom-new">
                 <div className="title">
                   <h6>Slack</h6>
                   <p className="fz-12">UI/UX Designer & Developer</p>
@@ -70,7 +70,7 @@ function Skills({ lightMode }) {
                   <p className="fz-12">2015 - 2019</p>
                 </div>
               </div>
-              <div className="item d-flex pb-30 bord-thin-bottom">
+              <div className="item d-flex pb-30 bord-thin-bottom-new">
                 <div className="title">
                   <h6>Apple</h6>
                   <p className="fz-12">ios Developer</p>

@@ -2,7 +2,7 @@
 
 function Footer({ lightMode }) {
   return (
-    <footer className="sub-bg">
+    <footer>
       <div className="sub-footer pt-40 pb-40 bord-thin-top">
         <div className="container">
           <div className="row">

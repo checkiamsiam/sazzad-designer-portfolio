@@ -31,7 +31,7 @@ function Banner() {
               <h1 className="fz-60">Crafting Memorable Brands.</h1>
               <div className="row mt-50">
                 <div className="col-lg-3 cal-act order2">
-                  <Link href="/dark/portfolio-classic-grid" className="butn-circle d-flex align-items-center text-center">
+                  <a href="#home-portfolio" className="butn-circle d-flex align-items-center text-center">
                     <div className="full-width">
                       <span>
                         <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -44,7 +44,7 @@ function Banner() {
                       <span className="full-width">View Works</span>
                     </div>
                     <img src="/dark/assets/imgs/svg-assets/circle-star.svg" alt="" className="circle-star" />
-                  </Link>
+                  </a>
                 </div>
                 <div className="col-lg-8 offset-lg-1 valign order1 md-mb50">
                   <p className="fz-16">I design with pure creativity by combining the simplicity of peoples lives that one can live with, Which consists a result in minimalistic branding that has feelings and emotions attached to it.</p>
