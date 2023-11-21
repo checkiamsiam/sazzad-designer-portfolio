@@ -1,37 +1,23 @@
 [
   {
     "id": 1,
-    "image": "/dark/assets/imgs/freelancer/works/1.jpg",
-    "title": "GeekFolio Architecture",
-    "category": "Branding",
+    "thumb": "/dark/assets/imgs/projects/blue-lens/Thumbnail.jpg",
+    "title": "Blue Lance",
+    "category": "Creative Branding",
     "date": "2023"
   },
   {
-    "id": 2,
-    "image": "/dark/assets/imgs/freelancer/works/2.jpg",
-    "title": "Luxury Modern Chair",
-    "category": "Branding",
+    "id": 1,
+    "thumb": "/dark/assets/imgs/projects/Carriage/Thumbnail.jpg",
+    "title": "Carriage",
+    "category": "Creative Branding",
     "date": "2023"
   },
   {
-    "id": 3,
-    "image": "/dark/assets/imgs/freelancer/works/3.jpg",
-    "title": "Partiner BPO",
-    "category": "Branding",
-    "date": "2023"
-  },
-  {
-    "id": 4,
-    "image": "/dark/assets/imgs/freelancer/works/4.jpg",
-    "title": "From our gallery",
-    "category": "Branding",
-    "date": "2023"
-  },
-  {
-    "id": 5,
-    "image": "/dark/assets/imgs/freelancer/works/5.jpg",
-    "title": "Astra Brand Identity",
-    "category": "Branding",
+    "id": 1,
+    "thumb": "/dark/assets/imgs/projects/blue-lens/Thumbnail.jpg",
+    "title": "Blue Lance",
+    "category": "Creative Branding",
     "date": "2023"
   }
 ]

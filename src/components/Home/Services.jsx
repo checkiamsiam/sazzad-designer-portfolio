@@ -13,7 +13,7 @@ function Services({ lightMode }) {
             <div className="col-lg-7">
               <div className="position-re">
                 <h6 className="dot-titl mb-10">Featured Services</h6>
-                <h2 className="fz-50">Our Services</h2>
+                <h2 className="fz-50">Services</h2>
               </div>
             </div>
             <div className="col-lg-5 d-flex align-items-center">
@@ -39,10 +39,8 @@ function Services({ lightMode }) {
           {data.map((item, index) => (
             <div className="col-lg-6" key={item.id}>
               <div className={`serv-item d-flex ${index !== data.length - 1 ? "mb-30" : ""} radius-10`}>
-                <div className="icon-img-80">
-                  <img src={"/dark/assets/imgs/serv-icons/0.png"} alt="" />
-                </div>
-                <div className="ml-60">
+                
+                <div className="">
                   <h5 className="mb-15">
                     <StatementSplitter statement={item.title} />
                   </h5>

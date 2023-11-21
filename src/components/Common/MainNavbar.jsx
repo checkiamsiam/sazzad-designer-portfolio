@@ -13,8 +13,6 @@ function MainNavbar({ mainBg, subBg, noStatic, curve }) {
     document.querySelector(".navbar .navbar-collapse").classList.remove("show");
   });
 
-
-
   function handleScroll() {
     const bodyScroll = window.scrollY;
     const navbar = document.querySelector(".navbar");
@@ -59,11 +57,6 @@ function MainNavbar({ mainBg, subBg, noStatic, curve }) {
               </a>
             </li>
 
-            <li className="nav-item">
-              <a className={"nav-link"} href="#home-about">
-                <span className="rolling-text">About</span>
-              </a>
-            </li>
             <li className="nav-item">
               <a className={"nav-link"} href="#home-portfolio">
                 <span className="rolling-text">Portfolio</span>

@@ -7,28 +7,23 @@ function Contact() {
             <div className="sec-lg-head md-mb80">
               <h6 className="dot-titl mb-10">Get In Touch</h6>
               <h2 className="fz-50">Let's make your brand brilliant!</h2>
-              <p className="fz-15 mt-10">If you would like to work with us or just want to get in touch, we’d love to hear from you!</p>
+              <p className="fz-15 mt-10">If you would like to work with us or just want to get in touch, I’d love to hear from you!</p>
               <div className="phone fz-30 fw-600 mt-30 underline">
-                <a href="#0">+1 840 841 25 69</a>
+                <a href="#0">+880 1639-744106</a>
               </div>
               <ul className="rest social-text d-flex mt-60">
                 <li className="mr-30">
-                  <a href="#0" className="hover-this">
+                  <a href="https://www.facebook.com/sazzaddesigns" className="hover-this">
                     <span className="hover-anim">Facebook</span>
                   </a>
                 </li>
                 <li className="mr-30">
-                  <a href="#0" className="hover-this">
-                    <span className="hover-anim">Twitter</span>
-                  </a>
-                </li>
-                <li className="mr-30">
-                  <a href="#0" className="hover-this">
+                  <a href="https://www.linkedin.com/in/sazzaddesign/" className="hover-this">
                     <span className="hover-anim">LinkedIn</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#0" className="hover-this">
+                  <a href="https://www.instagram.com/sazzaddesigns/" className="hover-this">
                     <span className="hover-anim">Instagram</span>
                   </a>
                 </li>

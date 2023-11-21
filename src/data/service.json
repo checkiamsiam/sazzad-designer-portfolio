@@ -1,26 +1,22 @@
 [
   {
     "id": 1,
-    "image": "dark/assets/imgs/serv-icons/0.png",
-    "title": "Brand Strategy & <BR> Art Direction",
-    "text": "Creating a higher spacing and how people move through a unique."
+    "title": "Brand identity system",
+    "text": "Create a powerful brand with a consistent visual language."
   },
   {
     "id": 2,
-    "image": "dark/assets/imgs/serv-icons/1.png",
-    "title": "UX/UI Design & <BR> Website/App Design",
-    "text": "Creating a higher spacing and how people move through a unique."
+    "title": "Visual identity design",
+    "text": "Enhance your brand’s look and feel with captivating designs."
   },
   {
     "id": 3,
-    "image": "dark/assets/imgs/serv-icons/0.png",
-    "title": "Brand Strategy & <BR> Art Direction",
-    "text": "Creating a higher spacing and how people move through a unique."
+    "title": "Logo design",
+    "text": "Impress your audience with a unique and iconic logo."
   },
   {
     "id": 4,
-    "image": "dark/assets/imgs/serv-icons/1.png",
-    "title": "UX/UI Design & <BR> Website/App Design",
-    "text": "Creating a higher spacing and how people move through a unique."
+    "title": "Graphic design",
+    "text": "Communicate your message with compelling visuals and storytelling."
   }
 ]

@@ -17,11 +17,11 @@ function Footer({ lightMode }) {
               <div className="copyright d-flex">
                 <div className="ml-auto">
                   <p className="fz-13">
-                    © Copyright 2023. Courtesy by{" "}
+                    © Copyright 2023. Courtesy of{" "}
                     <span className="underline">
                       {" "}
                       <a href="https://tigotek.net" target="_blank">
-                        www.tigotek.net
+                        tigotek.net
                       </a>
                     </span>
                   </p>

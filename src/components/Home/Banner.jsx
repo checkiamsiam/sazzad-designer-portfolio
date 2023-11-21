@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { useEffect } from "react";
 //= Scripts
 
@@ -21,13 +20,7 @@ function Banner() {
         <div className="row">
           <div className="col-lg-7">
             <div className="caption">
-              <h6 className="fw-400 mb-15">
-                Hello{" "}
-                <span className="icon-img-30">
-                  <img src="/dark/assets/imgs/svg-assets/hi.png" alt="" />
-                </span>{" "}
-                , I'm Sazzad.
-              </h6>
+              <h6 className="fw-400 mb-15">Hello , I'm Sazzad.</h6>
               <h1 className="fz-60">Crafting Memorable Brands.</h1>
               <div className="row mt-50">
                 <div className="col-lg-3 cal-act order2">
@@ -47,7 +40,10 @@ function Banner() {
                   </a>
                 </div>
                 <div className="col-lg-8 offset-lg-1 valign order1 md-mb50">
-                  <p className="fz-16">I design with pure creativity by combining the simplicity of peoples lives that one can live with, Which consists a result in minimalistic branding that has feelings and emotions attached to it.</p>
+                  <p className="fz-16">
+                    I design with pure creativity by combining the simplicity of peoples lives that one can live with, Which consists a result in
+                    minimalistic branding that has feelings and emotions attached to it.
+                  </p>
                 </div>
               </div>
             </div>
