@@ -8,7 +8,7 @@ function ProjectBanner({ project }) {
   }, [project]);
 
   return (
-    <header className="proj-header2 bg-img valign parallaxie" data-background={project?.thumb} data-overlay-dark="5">
+    <header className="proj-header2 bg-img valign parallaxie" data-background={project?.cover} data-overlay-dark="5">
       <div className="container mt-80">
         <div className="row justify-content-center">
           <div className="col-lg-8">

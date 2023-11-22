@@ -2,9 +2,85 @@
   {
     "id": "1",
     "thumb": "/dark/assets/imgs/projects/blue-lens/Thumbnail.jpg",
+    "cover": "/dark/assets/imgs/projects/blue-lens/Cover.jpg",
+    "secondaryCover": "/dark/assets/imgs/projects/blue-lens/Logo-color-1.jpg",
     "title": "Blue Lance",
     "category": "Creative Branding",
-    "date": "2023"
+    "descriptionOne": "Blue Lens offers exclusive bridal photography and cinematography services at competitive prices. Their primary focus is on capturing cherished memories and compelling narratives through our photography services, which encompass bridal and corporate events, portraits, and photoshoots. As they continue to expand their presence in both the bridal and corporate event markets, Blue Lens is establishing itself as a prominent name in the industry. Over time, their previous brand identity, which I personally created, has begun to show signs of aging and no longer aligns with their current vision and mission. Their growing network within the community and corporate sectors has highlighted the need for a refreshed brand identity that effectively communicates their values and aspirations. As a result, I took the initiative to craft a new, contemporary identity that reflects our evolving business",
+    "descriptionTwo": "The logo features a distinctive and contemporary 'camera lens' design that serves as a clear representation of the company's identity. In order to uphold the emotional resonance associated with the new brand identity, I harmonized it with a modern sans-serif typeface that communicates the essence of the business. The newly revitalized icon serves as a testament to their unwavering commitment and passion for photography, as it skillfully captures moments and preserves cherished memories for their discerning audience.",
+    "date": "2023",
+    "photos": [
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/Logo-evolution.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/Logomark.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/logo animation.gif",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/logo color.gif",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/laptop.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/photo-1.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/photo-2.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/photo-3.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/photo-4.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/set.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/frames.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/ipad.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/bcard.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/blue-lens/tshirt-and-hat.jpg",
+        "width": 1,
+        "height": 1
+      }
+    ]
   },
   {
     "id": "2",

@@ -1,4 +1,6 @@
+import AboutOne from "@/components/workDetails/About1";
 import ProjectBanner from "@/components/workDetails/Banner";
+import PhotoGallery from "@/components/workDetails/PhotoGallery";
 import data from "@/data/portfolio.json";
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
@@ -19,6 +21,8 @@ export default function Home() {
     <>
       <main className="main-bg ">
         <ProjectBanner project={project} />
+        <AboutOne project={project} />
+        <PhotoGallery project={project} />
       </main>
     </>
   );
