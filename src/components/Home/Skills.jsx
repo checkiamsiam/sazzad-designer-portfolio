@@ -53,13 +53,13 @@ function Skills({ lightMode }) {
                 <div className="icon-img-60 m-auto">
                   <img src={`/dark/assets/imgs/logos/Adobe_Creative_Cloud_rainbow_icon.svg.png`} alt="" />
                 </div>
-                <span className="mt-15">CreativeSuite.</span>
+                <span className="mt-15">CreativeSuite</span>
               </div>
               <div className="item text-center">
                 <div className="icon-img-60 m-auto">
                   <img src={`/dark/assets/imgs/logos/Adobe_Dimension_Logo.svg.png`} alt="" />
                 </div>
-                <span className="mt-15">Dimension.</span>
+                <span className="mt-15">Dimension</span>
               </div>
             </div>
           </div>
@@ -68,7 +68,7 @@ function Skills({ lightMode }) {
               <span className="exp mb-30 main-bg">10+ Years Experience</span>
               <div className="item d-flex pb-30 pt-30 mb-30 bord-thin-top-new bord-thin-bottom-new">
                 <div className="title">
-                  <h6>TIGOTEK</h6>
+                  <h6>Tigotek</h6>
                   <p className="fz-12">Senior Graphic Designer</p>
                 </div>
                 <div className="date ml-auto text-right">
@@ -82,7 +82,7 @@ function Skills({ lightMode }) {
               </div>
               <div className="item d-flex pb-30 mb-30 bord-thin-bottom-new">
                 <div className="title">
-                  <h6>SAZZAD.DESIGN</h6>
+                  <h6>Sazzad.Design</h6>
                   <p className="fz-12">Solopreneur </p>
                 </div>
                 <div className="date ml-auto text-right">
@@ -96,7 +96,7 @@ function Skills({ lightMode }) {
               </div>
               <div className="item d-flex pb-30 bord-thin-bottom-new">
                 <div className="title">
-                  <h6>SPLASH</h6>
+                  <h6>Splash</h6>
                   <p className="fz-12">Graphic Designer</p>
                 </div>
                 <div className="date ml-auto text-right">

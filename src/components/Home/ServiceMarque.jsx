@@ -9,44 +9,44 @@ function ServiceMarque() {
                 <div className="box non-strok">
                   <div className="item">
                     <h4 className="d-flex align-items-center">
-                      <span>Brand identity system</span> <span className="fz-50 ml-50 stroke icon">*</span>
+                      <span>Brand Identity System</span> <span className="fz-50 ml-50 stroke icon">*</span>
                     </h4>
                   </div>
                   <div className="item">
                     <h4 className="d-flex align-items-center">
-                      <span>Visual identity design</span> <span className="fz-50 ml-50 stroke icon">*</span>
+                      <span>Visual Identity Design</span> <span className="fz-50 ml-50 stroke icon">*</span>
                     </h4>
                   </div>
                   <div className="item">
                     <h4 className="d-flex align-items-center">
-                      <span>Logo design</span> <span className="fz-50 ml-50 stroke icon">*</span>
+                      <span>Logo Design</span> <span className="fz-50 ml-50 stroke icon">*</span>
                     </h4>
                   </div>
                   <div className="item">
                     <h4 className="d-flex align-items-center">
-                      <span>Graphic design</span> <span className="fz-50 ml-50 stroke icon">*</span>
+                      <span>Graphic Design</span> <span className="fz-50 ml-50 stroke icon">*</span>
                     </h4>
                   </div>
                 </div>
                 <div className="box non-strok">
                   <div className="item">
                     <h4 className="d-flex align-items-center">
-                      <span>Brand identity system</span> <span className="fz-50 ml-50 stroke icon">*</span>
+                      <span>Brand Identity System</span> <span className="fz-50 ml-50 stroke icon">*</span>
                     </h4>
                   </div>
                   <div className="item">
                     <h4 className="d-flex align-items-center">
-                      <span>Visual identity design</span> <span className="fz-50 ml-50 stroke icon">*</span>
+                      <span>Visual Identity Design</span> <span className="fz-50 ml-50 stroke icon">*</span>
                     </h4>
                   </div>
                   <div className="item">
                     <h4 className="d-flex align-items-center">
-                      <span>Logo design</span> <span className="fz-50 ml-50 stroke icon">*</span>
+                      <span>Logo Design</span> <span className="fz-50 ml-50 stroke icon">*</span>
                     </h4>
                   </div>
                   <div className="item">
                     <h4 className="d-flex align-items-center">
-                      <span>Graphic design</span> <span className="fz-50 ml-50 stroke icon">*</span>
+                      <span>Graphic Design</span> <span className="fz-50 ml-50 stroke icon">*</span>
                     </h4>
                   </div>
                 </div>

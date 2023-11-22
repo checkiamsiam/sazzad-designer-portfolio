@@ -49,7 +49,7 @@ function Contact() {
           <div className="col-lg-6 offset-lg-1 valign">
             <div className="full-width">
               <form id="contact-form" onSubmit={handleSubmit} action="https://api.web3forms.com/submit" method="POST">
-                <input type="hidden" name="access_key" value="f5c8afcb-25b5-4413-8ebc-3a14180ea892" />
+                <input type="hidden" name="access_key" value="f7bbb987-fba1-4cb6-8513-91e13b50dde9" />
                 <input type="hidden" name="redirect" value={`${url}/#home-contact`} />
                 <div className="messages"></div>
 

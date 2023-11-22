@@ -5,7 +5,7 @@
     "cover": "/dark/assets/imgs/projects/blue-lens/Cover.jpg",
     "secondaryCover": "/dark/assets/imgs/projects/blue-lens/Logo-color-1.jpg",
     "title": "Blue Lance",
-    "category": "Creative Branding",
+    "category": "Visual Identity Design",
     "descriptionOne": "Blue Lens offers exclusive bridal photography and cinematography services at competitive prices. Their primary focus is on capturing cherished memories and compelling narratives through our photography services, which encompass bridal and corporate events, portraits, and photoshoots. As they continue to expand their presence in both the bridal and corporate event markets, Blue Lens is establishing itself as a prominent name in the industry. Over time, their previous brand identity, which I personally created, has begun to show signs of aging and no longer aligns with their current vision and mission. Their growing network within the community and corporate sectors has highlighted the need for a refreshed brand identity that effectively communicates their values and aspirations. As a result, I took the initiative to craft a new, contemporary identity that reflects our evolving business",
     "descriptionTwo": "The logo features a distinctive and contemporary 'camera lens' design that serves as a clear representation of the company's identity. In order to uphold the emotional resonance associated with the new brand identity, I harmonized it with a modern sans-serif typeface that communicates the essence of the business. The newly revitalized icon serves as a testament to their unwavering commitment and passion for photography, as it skillfully captures moments and preserves cherished memories for their discerning audience.",
     "date": "2023",
@@ -85,43 +85,469 @@
   {
     "id": "2",
     "thumb": "/dark/assets/imgs/projects/Carriage/Thumbnail.jpg",
+    "cover": "/dark/assets/imgs/projects/Carriage/Carriage 16x9 (2).jpg",
+    "secondaryCover": "/dark/assets/imgs/projects/Carriage/logo1.jpg",
     "title": "Carriage",
-    "category": "Creative Branding",
-    "date": "2023"
+    "descriptionOne": "Carriage is a copywriting agency that prides itself on delivering high-quality written content for businesses and individuals. The agency believes that every piece of writing should tell a story and evoke emotion, whether it's a blog post, website copy, or a marketing campaign. Carriage's clients are diverse and include businesses of all sizes and industries, from startups to established corporations. They value the agency's ability to craft compelling copy that resonates with their target audience and drives results.",
+    "descriptionTwo": "When designing a logo for Carriage, it's important to keep these values in mind and create a design that reflects the agency's commitment to quality and creativity. A logo that conveys sophistication, and a sense of motion would be fitting for this agency. It should also be memorable, unique, and visually appealing while conveying the message that Carriage is a trusted and reliable partner for all your copywriting needs. When crafting the brand identity for 'Carriage,' my design approach draws inspiration from the Carriage typewriter key, while also incorporating the iconic 'ENTER' key motif. This design concept combines sophistication with a modern touch, creating a memorable impression on their target audience. Rooted deeply in the essence of the brand, the new emblem serves as a robust and enduring symbol that will resonate with their audience for years to come. This refreshed mark is versatile, allowing seamless integration across diverse real-world applications and printing materials, ensuring ease of reproduction.",
+    "category": "Visual Identity Design",
+    "date": "2023",
+    "photos": [
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/measurements.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/measurements-2.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/logo2.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/poster.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/1.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/2.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/Thumbnail.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/tSHirt-back.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/bcard.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/instagram.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/web-preview.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/long-banner.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Carriage/Billboard.jpg",
+        "width": 1,
+        "height": 1
+      }
+    ]
   },
   {
     "id": "3",
     "thumb": "/dark/assets/imgs/projects/fabricode/Thumbnail.jpg",
+    "cover": "/dark/assets/imgs/projects/fabricode/Showroom.jpg",
+    "secondaryCover": "/dark/assets/imgs/projects/fabricode/store-signage.jpg",
+    "descriptionOne": "fabricode evokes a sense of craftsmanship and sophistication. This clothing brand specializes in creating garments that seamlessly blend style with comfort, emphasizing the importance of quality fabrics and meticulous attention to detail. The name suggests a code or language of fabrics, hinting at the brand's dedication to using only the finest materials. Expect a collection that speaks volumes through its textures, colors, and innovative designs—a fusion of fashion and fabric expertise.",
+    "descriptionTwo": "In crafting the identity for fabricode, careful consideration was given to ensuring a robust representation of the brand's essence. The logo, characterized by its round and smooth aesthetic, intentionally evokes a sense of playfulness and joy tailored to resonate with the target audience. The modern and sleek design of the logo serves as a visual reflection of fabricode's commitment to delivering distinctive and contemporary fashion. This visual identity not only conveys a premium appeal but also communicates a dedication to unwavering quality. In essence, the identity stands as a timeless testament to the brand's enduring image, poised to withstand the test of time.",
     "title": "Fabricode",
-    "category": "Creative Branding",
-    "date": "2023"
+    "category": "Visual Identity Design",
+    "date": "2023",
+    "photos": [
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/fabricode-1.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/fabricode-2.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/fabricode-3.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/fabricode-4.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/fabricode-5.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/fabricode-6.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/shirt _ tag.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/display-stand.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/bags.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/tshirt.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/Short-bag.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/shirt.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/shirt.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/totte-bag.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/hoodie.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/street-signage.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/fabricode/bcard.jpg",
+        "width": 1,
+        "height": 1
+      }
+    ]
   },
   {
     "id": "4",
     "thumb": "/dark/assets/imgs/projects/Fire-the-Laser/Thumbnail.jpg",
+    "cover": "/dark/assets/imgs/projects/Fire-the-Laser/machine-2.jpg",
+    "secondaryCover": "/dark/assets/imgs/projects/Fire-the-Laser/meaning.jpg",
+    "descriptionOne": "Fire the Laser is an entrepreneurial venture affiliated with one of my esteemed client. This enterprise specializes in crafting exquisite branding solutions for individuals and discerning customers. With a clientele that primarily comprises photography enthusiasts with an array of cameras and lenses seeking personalized labels, as well as individuals desiring bespoke laptop personalization, we dedicate ourselves to sourcing and utilizing premium materials. Our signature service involves precision engraving and cutting to impeccably imprint their names or custom designs",
+    "descriptionTwo": "The task at hand was to craft a symbol that authentically encapsulated his vision. The combinations of the three letters (FTL) into a cohesive logo posed a significant challenge. However, through meticulous design, the resulting logo emerged as an exemplary representation, harmoniously integrating geometric elements and precise alignment. This versatile emblem is poised to transcend time, finding application across diverse contemporary contexts.",
     "title": "Fire the Laser",
-    "category": "Creative Branding",
-    "date": "2023"
+    "category": "Logo Design",
+    "date": "2023",
+    "photos": [
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/machine 1.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/machine.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/guides.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/Only logo.gif",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/Only logo.gif",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/Cutting.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/Cutting-2.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/Cutting-1.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/sign.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/bag.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Fire-the-Laser/add.jpg",
+        "width": 7,
+        "height": 4
+      }
+    ]
   },
   {
     "id": "5",
     "thumb": "/dark/assets/imgs/projects/Hygenious/Thumbnail.jpg",
+    "cover": "/dark/assets/imgs/projects/Hygenious/cover.jpg",
+    "secondaryCover": "/dark/assets/imgs/projects/Hygenious/tshirt.jpg",
+    "descriptionOne": "Hygenious is a pioneering company committed to revolutionizing the hygiene industry by providing innovative and sustainable hygiene solutions. Hygenious is dedicated to transforming the hygiene sector through inventive and eco-friendly solutions. Committed to enhancing well-being, their high-quality products prioritize cleanliness, safety, and environmental responsibility. Upholding core values of innovation, they push hygiene technology boundaries, ensuring cutting-edge effectiveness.",
+    "descriptionTwo": "Sustainability is paramount, with a focus on eco-friendly materials and processes to minimize their ecological impact. Rigorous quality control measures guarantee products meet industry standards. Their diverse range includes advanced surface disinfectants, personal care items, and innovative technologies like touchless dispensers and UV-C sterilization. Targeting healthcare, commercial, and residential sectors, Hygenious maintains sterile environments. Beyond products, they champion Corporate Social Responsibility through community awareness programs and sustainable practices. Hygenious aspires to global leadership, setting benchmarks for quality, sustainability, and technological advancement, merging cleanliness with ingenuity for a healthier, safer, and more sustainable world.",
     "title": "Hygenious",
-    "category": "Creative Branding",
-    "date": "2023"
+    "category": "Visual Identity Design",
+    "date": "2023",
+    "photos": [
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/Logo process.gif",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/logo-guide.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/instagram posts-01.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/instagram posts-04.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/instagram posts-05.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/instagram posts-06.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/instagram.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/instagram-1.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/leaf-poster.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/mobile-app.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/post.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/post-1.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/Post-2.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/Poster.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/tap-bottle.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/totte-bag.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/tube.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/washer.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/website.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/bag.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/bcard.jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/billboard.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Hygenious/bottls.jpg",
+        "width": 7,
+        "height": 4
+      }
+    ]
   },
   {
     "id": "6",
     "thumb": "/dark/assets/imgs/projects/Job-Kraaijeveld/Thumbnail.jpg",
+    "cover": "/dark/assets/imgs/projects/Job-Kraaijeveld/preview.jpg",
+    "secondaryCover": "/dark/assets/imgs/projects/Job-Kraaijeveld/Photo-2.jpg",
+    "descriptionOne": "Job Kraaijeveld is a distinguished Director of Photography specializing in high-end commercial projects for Fortune 500 brands. In light of his extensive portfolio, Job is seeking a distinctive logo that can be prominently displayed on his website, invoices, and his extensive array of camera equipment. Additionally, he aims to establish a professional website to showcase his exceptional body of work.",
+    "descriptionTwo": "To craft an emblem that embodies simplicity, distinctiveness, and memorability, with a focus on highlighting its contemporary essence and clear visual representation. This approach involved the integration of the client's initials, 'J' and 'K,' cleverly arranged to form a distinctive, horizontal 'K,' encapsulated within a square. This square, akin to a photographic frame, served to frame the logo, enhancing its association with the art of photography. The Logo not only possesses timeless appeal but also leaves an indelible mark. The deliberate use of geometric shapes afforded the opportunity to deliver an exceptional logo that aligns seamlessly with his identity.",
     "title": "Job Kraaijevelds",
-    "category": "Creative Branding",
-    "date": "2023"
+    "category": "Logo Design",
+    "date": "2023",
+    "photos": [
+      {
+        "src": "/dark/assets/imgs/projects/Job-Kraaijeveld/guides.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Job-Kraaijeveld/name.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Job-Kraaijeveld/photo.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Job-Kraaijeveld/Photo-1.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Job-Kraaijeveld/magazine.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Job-Kraaijeveld/bag.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/Job-Kraaijeveld/frame.jpg",
+        "width": 1,
+        "height": 1
+      }
+    ]
   },
   {
     "id": "7",
     "thumb": "/dark/assets/imgs/projects/NOVUS/Thumbnail.jpg",
+    "cover": "/dark/assets/imgs/projects/NOVUS/Novus 16x9 (2).jpg",
+    "secondaryCover": "/dark/assets/imgs/projects/NOVUS/NOVUS-measurements.jpg",
+    "descriptionOne": "NOVUS™ is a forward-thinking tech company that specializes in cutting-edge technology solutions. They aim to provide innovative and transformative products and services to our clients across various industries. Their core focus is on leveraging the latest advancements in technology to deliver exceptional results and create a positive impact on the world. Businesses and enterprises seeking tech solutions to enhance their operations and efficiency. Tech-savvy consumers interested in innovative products and services that simplify their lives. Venture capitalists and stakeholders looking to support a promising tech company.",
+    "descriptionTwo": "NOVUS™ is a forward-thinking tech company that specializes in cutting-edge technology solutions. They aim to provide innovative and transformative products and services to our clients across various industries. Their core focus is on leveraging the latest advancements in technology to deliver exceptional results and create a positive impact on the world. Businesses and enterprises seeking tech solutions to enhance their operations and efficiency. Tech-savvy consumers interested in innovative products and services that simplify their lives. Venture capitalists and stakeholders looking to support a promising tech company.",
     "title": "NOVUS",
-    "category": "Creative Branding",
-    "date": "2023"
+    "category": "Logo Design",
+    "date": "2023",
+    "photos": [
+      {
+        "src": "/dark/assets/imgs/projects/NOVUS/Novus 1x1 (8).jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/NOVUS/Novus 1x1 (10).jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/NOVUS/Novus 16x9 (1).jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/NOVUS/Board.jpg",
+        "width": 7,
+        "height": 4
+      },
+      {
+        "src": "/dark/assets/imgs/projects/NOVUS/Novus 1x1 (4).jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/NOVUS/Novus 1x1 (6).jpg",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "/dark/assets/imgs/projects/NOVUS/Novus 1x1 (2).jpg",
+        "width": 1,
+        "height": 1
+      }
+    ]
   }
 ]
