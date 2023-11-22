@@ -1,22 +1,50 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "thumb": "/dark/assets/imgs/projects/blue-lens/Thumbnail.jpg",
     "title": "Blue Lance",
     "category": "Creative Branding",
     "date": "2023"
   },
   {
-    "id": 1,
+    "id": "2",
     "thumb": "/dark/assets/imgs/projects/Carriage/Thumbnail.jpg",
     "title": "Carriage",
     "category": "Creative Branding",
     "date": "2023"
   },
   {
-    "id": 1,
-    "thumb": "/dark/assets/imgs/projects/blue-lens/Thumbnail.jpg",
-    "title": "Blue Lance",
+    "id": "3",
+    "thumb": "/dark/assets/imgs/projects/fabricode/Thumbnail.jpg",
+    "title": "Fabricode",
+    "category": "Creative Branding",
+    "date": "2023"
+  },
+  {
+    "id": "4",
+    "thumb": "/dark/assets/imgs/projects/Fire-the-Laser/Thumbnail.jpg",
+    "title": "Fire the Laser",
+    "category": "Creative Branding",
+    "date": "2023"
+  },
+  {
+    "id": "5",
+    "thumb": "/dark/assets/imgs/projects/Hygenious/Thumbnail.jpg",
+    "title": "Hygenious",
+    "category": "Creative Branding",
+    "date": "2023"
+  },
+  {
+    "id": "6",
+    "thumb": "/dark/assets/imgs/projects/Job-Kraaijeveld/Thumbnail.jpg",
+    "title": "Job Kraaijevelds",
+    "category": "Creative Branding",
+    "date": "2023"
+  },
+  {
+    "id": "7",
+    "thumb": "/dark/assets/imgs/projects/NOVUS/Thumbnail.jpg",
+    "title": "NOVUS",
     "category": "Creative Branding",
     "date": "2023"
   }

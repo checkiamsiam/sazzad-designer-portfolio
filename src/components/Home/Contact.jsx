@@ -1,4 +1,20 @@
+import { useEffect, useState } from "react";
+import { BiCheck } from "react-icons/bi";
+
 function Contact() {
+  const [url, setUrl] = useState("");
+  const [show, setShow] = useState(false);
+  const handleSubmit = () => {
+    sessionStorage.setItem("isContact", "true");
+  };
+  useEffect(() => {
+    setUrl(window?.location?.origin);
+  }, []);
+  useEffect(() => {
+    if (sessionStorage.getItem("isContact")) {
+      setShow(true);
+    }
+  }, []);
   return (
     <section id="home-contact" className="contact-crev section-padding" data-scroll-index="7">
       <div className="container">
@@ -32,7 +48,9 @@ function Contact() {
           </div>
           <div className="col-lg-6 offset-lg-1 valign">
             <div className="full-width">
-              <form id="contact-form" method="post" action="contact.php">
+              <form id="contact-form" onSubmit={handleSubmit} action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="f5c8afcb-25b5-4413-8ebc-3a14180ea892" />
+                <input type="hidden" name="redirect" value={`${url}/#home-contact`} />
                 <div className="messages"></div>
 
                 <div className="controls row">
@@ -66,6 +84,12 @@ function Contact() {
                   </div>
                 </div>
               </form>
+              {show && (
+                <p className="news-success mt-15">
+                  <BiCheck className="size-tik" />
+                  Thanks you for contacting. I will get back to you soon
+                </p>
+              )}
             </div>
           </div>
         </div>
