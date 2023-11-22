@@ -26,7 +26,9 @@ function Portfolio() {
             <div className={`col-lg-${index > 1 ? "4" : "6"}`} key={item.id}>
               <div className="item mt-30">
                 <div className="img">
+                  <Link href={`/works/${item.id}`}>
                   <img src={item.thumb} alt="" className="radius-10" />
+                  </Link>
                   <Link href={`/works/${item.id}`} className="tag">
                     <span>{item.category}</span>
                   </Link>

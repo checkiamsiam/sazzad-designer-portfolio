@@ -1,9 +1,11 @@
 import useClickOutside from "@/hooks/useClickOutside";
 import Link from "next/link";
+import { useRouter } from "next/router";
 import { useEffect, useRef } from "react";
 
 function MainNavbar({ mainBg, subBg, noStatic, curve }) {
   const ref = useRef();
+  const route = useRouter();
   useEffect(() => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
@@ -30,7 +32,7 @@ function MainNavbar({ mainBg, subBg, noStatic, curve }) {
       ref={ref}
       className={`navbar navbar-expand-lg ${curve ? "nav-crev" : ""} ${noStatic ? "" : "static"} ${mainBg ? "main-bg" : ""} ${subBg ? "sub-bg" : ""}`}
     >
-      <div className="container">
+      <div className="container py-3">
         <Link className="logo icon-img-120" href="/">
           <img src="/dark/assets/imgs/logo-light.png" alt="logo" />
         </Link>
@@ -50,29 +52,31 @@ function MainNavbar({ mainBg, subBg, noStatic, curve }) {
         </button>
 
         <div className="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
-          <ul className="navbar-nav">
-            <li className="nav-item">
-              <a className={"nav-link"} href="#home-service">
-                <span className="rolling-text">Service</span>
-              </a>
-            </li>
+          {route.pathname === "/" && (
+            <ul className="navbar-nav">
+              <li className="nav-item">
+                <a className={"nav-link"} href="#home-service">
+                  <span className="rolling-text">Service</span>
+                </a>
+              </li>
 
-            <li className="nav-item">
-              <a className={"nav-link"} href="#home-portfolio">
-                <span className="rolling-text">Portfolio</span>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className={"nav-link"} href="#home-resume">
-                <span className="rolling-text">Resume</span>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className={"nav-link"} href="#home-contact">
-                <span className="rolling-text">Contact</span>
-              </a>
-            </li>
-          </ul>
+              <li className="nav-item">
+                <a className={"nav-link"} href="#home-portfolio">
+                  <span className="rolling-text">Portfolio</span>
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className={"nav-link"} href="#home-resume">
+                  <span className="rolling-text">Resume</span>
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className={"nav-link"} href="#home-contact">
+                  <span className="rolling-text">Contact</span>
+                </a>
+              </li>
+            </ul>
+          )}
         </div>
         <div className="nav-item-contact-btn">
           <a href="https://www.linkedin.com/in/sazzaddesign/" target="_blank" className={`butn butn-md butn-bord radius-30 `}>

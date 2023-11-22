@@ -1,5 +1,7 @@
 //= Data
 
+import Link from "next/link";
+
 function Footer({ lightMode }) {
   return (
     <footer>
@@ -8,9 +10,9 @@ function Footer({ lightMode }) {
           <div className="row">
             <div className="col-lg-4">
               <div className="logo">
-                <a href="#0">
+                <Link href="/">
                   <img src={`/dark/assets/imgs/logo-light.png`} alt="" />
-                </a>
+                </Link>
               </div>
             </div>
             <div className="col-lg-8">
