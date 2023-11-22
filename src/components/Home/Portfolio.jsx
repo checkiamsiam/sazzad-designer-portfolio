@@ -1,8 +1,10 @@
 import Link from "next/link";
 //= Data
 import data from "@/data/portfolio.json";
+import { useRouter } from "next/router";
 
 function Portfolio() {
+  const router = useRouter()
   return (
     <section id="home-portfolio" className="portfolio clasic section-padding" data-scroll-index="3">
       <div className="container">
@@ -15,20 +17,16 @@ function Portfolio() {
               </div>
             </div>
             <div className="col-lg-5 d-flex align-items-center">
-              <div className="full-width d-flex justify-content-end justify-end">
-               
-              </div>
+              <div className="full-width d-flex justify-content-end justify-end"></div>
             </div>
           </div>
         </div>
         <div className="row">
           {data.map((item, index) => (
-            <div className={`col-lg-${index > 1 ? "4" : "6"}`} key={item.id}>
-              <div className="item mt-30">
+            <div  className={`col-lg-${index > 1 ? "4" : "6"} `} key={item.id}>
+              <div onClick={() => router.push(`/works/${item.id}`)} className="item mt-30 cursor-pointer">
                 <div className="img">
-                  <Link href={`/works/${item.id}`}>
                   <img src={item.thumb} alt="" className="radius-10" />
-                  </Link>
                   <Link href={`/works/${item.id}`} className="tag">
                     <span>{item.category}</span>
                   </Link>
