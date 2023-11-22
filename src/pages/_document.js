@@ -6,8 +6,8 @@ export default function Document() {
       <Head>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="keywords" content="sazzad portfolio Multi-Purpose web-development Digital-marketing tigotek checkiamsiam" />
-        <meta name="title" content="Make Designs Better" />
-        <meta name="description" content="Building a better digital tomorrow" />
+        <meta name="title" content="Crafting Memorable Brands" />
+        <meta name="description" content="Minimalistic branding with creativity, simplicity, and emotion" />
         <meta name="author" content="" />
         <meta property="og:image" content="/dark/assets/imgs/logo-light.png" />
         {/* ------ Favicon ------ */}
